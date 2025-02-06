@@ -1,0 +1,1234 @@
+[
+    {
+        "source": "шмотки",
+        "target": "ciuchy",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "одяг",
+        "target": "ubranie",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "носити",
+        "target": "nosić",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "мати на собі",
+        "target": "mieć na sobie",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "блискучий",
+        "target": "olśniewający",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "поганий",
+        "target": "kiepski",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "жахливий",
+        "target": "okropny",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "стильний",
+        "target": "stylowy",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "матеріал",
+        "target": "materiał",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "штани",
+        "target": "spodnie",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "сукня",
+        "target": "sukienka",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "шорти",
+        "target": "szorty, krótkie spodenki",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "светр",
+        "target": "sweter",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "пальто",
+        "target": "płaszcz",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "тренч",
+        "target": "trencz",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "куртка",
+        "target": "kurtka",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "дощовик",
+        "target": "kurtka przeciwdeszczowa",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "спідниця",
+        "target": "spódnica",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "плісирована спідниця",
+        "target": "spódnica plisowana",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "жакет",
+        "target": "żakiet",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "гольф",
+        "target": "golf",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "футболка",
+        "target": "podkoszulek",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "жилетка",
+        "target": "kamizelka",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "краватка",
+        "target": "krawat",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "капелюх",
+        "target": "kapelusz",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "сорочка",
+        "target": "koszula",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "кишеня",
+        "target": "kieszeń",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "чоловічий костюм",
+        "target": "garnitur",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "купальник",
+        "target": "strój kąpielowy",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "колготи",
+        "target": "rajstopy",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "комір",
+        "target": "kołnierz",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "блузка",
+        "target": "bluzka",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "каблук",
+        "target": "obcas",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "труси",
+        "target": "majtki",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "капці",
+        "target": "kapcie",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "рукав",
+        "target": "rękaw",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "толстовка",
+        "target": "bluza",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "капюшон",
+        "target": "kaptur",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "плавки",
+        "target": "kąpielówki",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "спортивний костюм",
+        "target": "dres",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "білизна",
+        "target": "bielizna",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "бюстгальтер",
+        "target": "biustonosz/stanik",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "манжет",
+        "target": "mankiet",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "гольфи",
+        "target": "podkolanówki",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "нічна сорочка",
+        "target": "koszula nocna",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "піжама",
+        "target": "piżama",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "кеди",
+        "target": "trampki",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "халат",
+        "target": "szlafrok",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "метелик",
+        "target": "muszka",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "комбінезон",
+        "target": "ogrodniczki",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "в'єтнамки",
+        "target": "japonki",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "шуба",
+        "target": "futro",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "панчохи",
+        "target": "pończochy",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "фата, вуаль",
+        "target": "welon",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "балаклава",
+        "target": "kominiarka",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "бриджі",
+        "target": "bryczesy",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "колготи в сіточку",
+        "target": "kabaretki",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "гетри",
+        "target": "getry",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "дублянка",
+        "target": "kożuch",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "тісний",
+        "target": "ciasny",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "облягаючий",
+        "target": "obcisły",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "мішкуватий, вільний",
+        "target": "luźny",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "елегантний, вихідний",
+        "target": "elegancki, wyjściowy",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "у горошок",
+        "target": "w kropki",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "візерунчастий",
+        "target": "wzorzysty",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "у смужку",
+        "target": "w paski",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "у клітинку",
+        "target": "w kratkę",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "вовна, вовняний",
+        "target": "wełna, wełniany",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "замша, замшевий",
+        "target": "zamsz, zamszowy",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "шовк, шовковий",
+        "target": "jedwab, jedwabny",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "льон, льняний",
+        "target": "len, lniany",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "шкіра, шкіряний",
+        "target": "skóra, skórzany",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "джинсовий",
+        "target": "dżinsowy",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "бавовна, бавовняний",
+        "target": "bawełna, bawełniany",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "вельвет",
+        "target": "sztruks",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "ґудзик",
+        "target": "guzik",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "застібка-блискавка",
+        "target": "zamek błyskawiczny",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "застібнути",
+        "target": "zapiąć",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "прозорий",
+        "target": "przezroczysty",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "кросівки",
+        "target": "adidasy",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "пасок",
+        "target": "pasek",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "піджак",
+        "target": "marynarka",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "жіночий діловий костюм",
+        "target": "kostium",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "чоботи",
+        "target": "kozaki",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "черевики",
+        "target": "buty",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "сандалі, босоніжки",
+        "target": "sandały",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "почуваюся як риба у воді",
+        "target": "czuję się jak ryba w wodzie",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "чисте задоволення",
+        "target": "czysta przyjemność",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "наперед дякую за пораду",
+        "target": "z góry dziękuję za radę",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "я не можу дочекатися",
+        "target": "nie mogę się doczekać",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "сенсаційний",
+        "target": "wystrzałowy",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "мішок",
+        "target": "worek",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "порадити",
+        "target": "doradzić",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "надягти/надягати",
+        "target": "założyć/zakładać",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "поміряти одяг",
+        "target": "przymierzyć ubranie",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "ширінка",
+        "target": "rozporek",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "шарф",
+        "target": "szalik",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "рукавички",
+        "target": "rękawiczki",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "примірочна",
+        "target": "przymierzalnia",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "як це на мені сидить?",
+        "target": "jak to na mnie leży?",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "мені це пасує?",
+        "target": "do twarzy mi w tym?",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "задовге",
+        "target": "za duże",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "замале",
+        "target": "za małe",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "завузьке",
+        "target": "za wąskie",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "задовге",
+        "target": "za długie",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "затісне",
+        "target": "za ciasne",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "завільне",
+        "target": "za luźne",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "відмінно сидить",
+        "target": "leży jak ulał",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "перевдягтися",
+        "target": "przebrać się",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "роздягтися",
+        "target": "rozebrać się",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "крій",
+        "target": "krój",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "зняти/надягти черевики",
+        "target": "zdjąć/włożyć buty",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "одяг",
+        "target": "odzież",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "красуня",
+        "target": "piękność",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "блискучі прикраси",
+        "target": "błyskotki",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "бутік",
+        "target": "butik",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "подіум",
+        "target": "wybieg dla modelek",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "манекен",
+        "target": "manekin na ubrania",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "консервативний",
+        "target": "konserwatywny",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "сучасний",
+        "target": "współczesny",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "мода",
+        "target": "szał/moda",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "креативний",
+        "target": "kreatywny",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "застарілий",
+        "target": "przestarzały",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "проєкт",
+        "target": "projekt",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "відзначаючийся",
+        "target": "wyróżniający się",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "етикет",
+        "target": "etykieta (normy postępowania)",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "модельєр",
+        "target": "projektant mody",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "модні тенденції",
+        "target": "trendy modowe",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "модний",
+        "target": "modny",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "екстравагантний",
+        "target": "ekstrawagancki",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "частина одягу",
+        "target": "część garderoby",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "етикетка",
+        "target": "etykieta (metka)",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "жіноча спідня білизна",
+        "target": "damska bielizna",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "популярний тренд",
+        "target": "popularny trend",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "модель",
+        "target": "model/modelka",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "необхідний",
+        "target": "niezbędny",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "старий стиль",
+        "target": "dawny styl",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "показний",
+        "target": "ostentacyjny",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "якість",
+        "target": "jakość",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "шоу-рум",
+        "target": "salon wystawowy",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "стиль",
+        "target": "styl",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "виготовлений на замовлення",
+        "target": "wykonany na zamówienie",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "тренд",
+        "target": "trend",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "єдиний у своєму роді",
+        "target": "jedyny w swoim rodzaju",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "класичний",
+        "target": "klasyczny",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "бути рабом моди",
+        "target": "być niewolnikiem mody",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "останній писк моди",
+        "target": "ostatni krzyk mody",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "ікона моди",
+        "target": "ikona mody",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "знати, що модно",
+        "target": "wiedzieć, co jest modne",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "добре виглядати",
+        "target": "dobrze się prezentować",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "бути старомодним",
+        "target": "być staroświeckim",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "виділятися",
+        "target": "wyróżniać się",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "носити модний одяг",
+        "target": "nosić modne ubrania",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "творчий",
+        "target": "twórczy",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    }
+]

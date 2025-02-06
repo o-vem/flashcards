@@ -1,0 +1,906 @@
+[
+    {
+        "source": "я",
+        "target": "ja",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "ти",
+        "target": "ty",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "він",
+        "target": "on",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "вона",
+        "target": "ona",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "ми",
+        "target": "my",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "ви",
+        "target": "wy",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "вони",
+        "target": "oni",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "бути",
+        "target": "być",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "мати",
+        "target": "mieć",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "робити",
+        "target": "robić",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "йти",
+        "target": "iść",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "їсти",
+        "target": "jeść",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "пити",
+        "target": "pić",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "говорити",
+        "target": "mówić",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "бачити",
+        "target": "widzieć",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "чути",
+        "target": "słyszeć",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "любити",
+        "target": "kochać",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "хотіти",
+        "target": "chcieć",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "могти",
+        "target": "móc",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "знати",
+        "target": "wiedzieć",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "подобатися",
+        "target": "lubić",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "прийти",
+        "target": "przyjść",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "повернутися",
+        "target": "wrócić",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "отримати",
+        "target": "otrzymać",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "знайти",
+        "target": "znaleźć",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "знати",
+        "target": "znać",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "дати",
+        "target": "dać",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "сказати",
+        "target": "powiedzieć",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "подумати",
+        "target": "pomyśleć",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "дивитися",
+        "target": "patrzeć",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "чекати",
+        "target": "czekać",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "грати",
+        "target": "grać",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "працювати",
+        "target": "pracować",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "вчитися",
+        "target": "uczyć się",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "вчити",
+        "target": "uczyć",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "пам'ятати",
+        "target": "pamiętać",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "забути",
+        "target": "zapomnieć",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "подзвонити",
+        "target": "zadzwonić",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "прочитати",
+        "target": "przeczytać",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "відкрити",
+        "target": "otworzyć",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "закрити",
+        "target": "zamknąć",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "задавати",
+        "target": "zadawać",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "брати",
+        "target": "brać",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "думати",
+        "target": "myśleć",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "мусити",
+        "target": "musieć",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "знаходити",
+        "target": "znajdować",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "шукати",
+        "target": "szukać",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "входити",
+        "target": "wchodzić",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "виходити",
+        "target": "wychodzić",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "відкривати",
+        "target": "otwierać",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "закривати",
+        "target": "zamykać",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "розмовляти",
+        "target": "rozmawiać",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "писати",
+        "target": "pisać",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "читати",
+        "target": "czytać",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "слухати",
+        "target": "słuchać",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "розуміти",
+        "target": "rozumieć",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "купувати",
+        "target": "kupować",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "продавати",
+        "target": "sprzedawać",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "співати",
+        "target": "śpiewać",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "танцювати",
+        "target": "tańczyć",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "бігати",
+        "target": "biegać",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "плавати",
+        "target": "pływać",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "їхати",
+        "target": "jechać",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "приїжджати",
+        "target": "przyjeżdżać",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "від'їжджати",
+        "target": "odjeżdżać",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "сміятись",
+        "target": "śmiać się",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "плакати",
+        "target": "płakać",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "спати",
+        "target": "spać",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "мама",
+        "target": "mama",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "тато",
+        "target": "tata",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "дитина",
+        "target": "dziecko",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "брат",
+        "target": "brat",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "сестра",
+        "target": "siostra",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "дідусь",
+        "target": "dziadek",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "бабуся",
+        "target": "babcia",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "тітка",
+        "target": "ciocia",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "дядько",
+        "target": "wujek",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "собака",
+        "target": "pies",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "кіт",
+        "target": "kot",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "дім",
+        "target": "dom",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "квартира",
+        "target": "mieszkanie",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "місто",
+        "target": "miasto",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "село",
+        "target": "wieś",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "школа",
+        "target": "szkoła",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "вчитель",
+        "target": "nauczyciel",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "учень",
+        "target": "uczeń",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "урок",
+        "target": "lekcja",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "книга",
+        "target": "książka",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "ручка",
+        "target": "długopis",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "стіл",
+        "target": "stół",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "стілець",
+        "target": "krzesło",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "ліжко",
+        "target": "łóżko",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "вікно",
+        "target": "okno",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "двері",
+        "target": "drzwi",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "автомобіль",
+        "target": "samochód",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "велосипед",
+        "target": "rower",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "потяг",
+        "target": "pociąg",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "літак",
+        "target": "samolot",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "корабель",
+        "target": "statek",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "дерево",
+        "target": "drzewo",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "квітка",
+        "target": "kwiat",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "трава",
+        "target": "trawa",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "хліб",
+        "target": "chleb",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "молоко",
+        "target": "mleko",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "вода",
+        "target": "woda",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "кава",
+        "target": "kawa",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "чай",
+        "target": "herbata",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "цукор",
+        "target": "cukier",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "сіль",
+        "target": "sól",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "масло",
+        "target": "masło",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "сир",
+        "target": "ser",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "яйце",
+        "target": "jajko",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    },
+    {
+        "source": "м'ясо",
+        "target": "mięso",
+        "score": {
+            "correct": 0,
+            "incorrect": 0
+        }
+    }
+]
